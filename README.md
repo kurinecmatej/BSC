@@ -12,6 +12,9 @@ The input can be typed into the command line:
  *******************
  **** HOW TO RUN ***
  *******************
+ runable file is located in bsc/targer
+ 
+ run by:
  java -jar bsc-0.0.1-SNAPSHOT.jar inputfile.txt
  ---where inputfile.txt is optional parameter containing initial currency values. Filename can be optionally specified
  
