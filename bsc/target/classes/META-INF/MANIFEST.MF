@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: matej
+Class-Path: lib/spring-context-5.0.4.RELEASE.jar lib/spring-aop-5.0.4.
+ RELEASE.jar lib/spring-expression-5.0.4.RELEASE.jar lib/spring-core-5
+ .0.4.RELEASE.jar lib/spring-jcl-5.0.4.RELEASE.jar lib/spring-beans-5.
+ 0.4.RELEASE.jar lib/spring-web-5.0.4.RELEASE.jar lib/spring-webmvc-5.
+ 0.4.RELEASE.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: sk.bsc.project.Main
+
