@@ -49,7 +49,8 @@ Program assumptions:
  EXCEPTIONS:
  - NoCurrenciesException
    - exception is thrown when no currencies are implemented in this application.
- 
+ - java.io.FileNotFoundException
+   - when init file pasted as application parameter is not found
  
 Project structure:
 src
